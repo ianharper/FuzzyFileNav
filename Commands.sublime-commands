@@ -1,0 +1,19 @@
+//FuzzyFileNav - Default Commands
+[
+	{
+	    "caption": "FuzzyFileNav Here...",
+	    "command": "fuzzy_start_from_file"
+	},
+	{
+	    "caption": "FuzzyFileNav",
+	    "command": "fuzzy_file_nav"
+	},
+	{
+	    "caption": "FuzzyFileNav Project Folders",
+	    "command": "fuzzy_project_folder_load"
+	},
+	{
+	    "caption": "FuzzyFileNav BookMarks",
+	    "command": "fuzzy_bookmarks_load"
+	}
+]
